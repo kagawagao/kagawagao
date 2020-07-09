@@ -15,3 +15,4 @@
 - 🌱 Learning **how to be a good man**
 - 👨🏻‍💻 A `Front End Developer`
 - 🎯 Code for work, Work for code
+- 👀 Looking for a good job

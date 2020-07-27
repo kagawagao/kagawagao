@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=kagawagao&&show_icons=true&theme=tokyonight)
+
 ```
 
 ██╗  ██╗ █████╗  ██████╗  █████╗ ██╗    ██╗ █████╗  ██████╗  █████╗  ██████╗ 

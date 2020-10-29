@@ -1,8 +1,8 @@
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kagawagao&show_icons=true&theme=github" />
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=kagawagao&show_icons=true&theme=github" /></span>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagawagao&layout=compact" />
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagawagao&layout=compact" /></span>
 
 ### Hi there 👋
 

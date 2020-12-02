@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨 💻 A `Front End Developer`
+- 💻 A `Front End Developer`
 - 🌱 Learning **how to be a good man**
 - 🎯 Code for work, Work for code
 - 👀 Looking for a good job

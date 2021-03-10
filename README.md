@@ -5,8 +5,6 @@
 - 🎯 Code for work, Work for code
 - 👀 Looking for a good job
 
-<span>
-  <img align=="left" src="https://github-readme-stats.vercel.app/api?username=kagawagao&show_icons=true&count_private=true" />
-  <img align=="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagawagao&layout=compact" />
-</span>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagawagao&hide_border=true&border_radius=0&hide_title=true" />
+<div />
+<img align=="left" src="https://github-readme-stats.vercel.app/api?username=kagawagao&show_icons=true&count_private=true&hide_border=true&border_radius=0&hide_title=true" />

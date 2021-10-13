@@ -3,7 +3,6 @@
 - 💻 A `Front End Developer`
 - 🌱 Learning **how to be a good man**
 - 🎯 Code for work, Work for code
-- 👀 Looking for a good job
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagawagao&hide_border=true&border_radius=0&hide_title=true" />
 <div />
